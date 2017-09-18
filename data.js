@@ -1707,6 +1707,14 @@ module.exports = [
     source: "https://raw.githubusercontent.com/getify/LABjs/master/LAB.js"
   },
   {
+    name: "Acho",
+    github: "achojs/acho",
+    tags: ["log", "log trace", "diff log"],
+    description: "The Hackable Log. Its features: (i) different log levels skins; (ii) beauty object interpolation; (iii) diff & log trace support; and (iv) asy to customize, easy to hack",
+    url: "https://acho.js.org/",
+    source: ""
+  },
+  {
     name: "Qwery",
     tags: ["css"],
     description: "Blazing fast query selector engine allowing you to select elements with CSS1, CSS2 & CSS3 selectors.",
