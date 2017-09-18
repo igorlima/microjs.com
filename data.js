@@ -1692,6 +1692,14 @@ module.exports = [
     source: "https://raw.githubusercontent.com/janl/mustache.js/master/mustache.js"
   },
   {
+    name: "Awesomplete",
+    github: "leaverou/awesomplete",
+    tags: ["autocomplete"],
+    description: "Ultra lightweight, customizable, simple autocomplete widget with zero dependencies, built with modern standards for modern browsers.",
+    url: "http://leaverou.github.io/awesomplete/",
+    source: "https://github.com/LeaVerou/awesomplete/blob/gh-pages/awesomplete.js"
+  },
+  {
     name: "tiny-mustache",
     github: "aishikaty/tiny-mustache",
     tags: ["templating", "template", "tiny"],
